@@ -1,0 +1,1 @@
+size of all client java files is 32,891 bytes
